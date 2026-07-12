@@ -8,3 +8,7 @@ nav a { color: white; margin: 0 10px; text-decoration: none; }
 .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1rem; margin-top: 2rem; }
 .card { border: 1px solid #ddd; padding: 1rem; border-radius: 5px; }
 footer { background: #333; color: white; text-align: center; padding: 1rem; margin-top: 2rem; }
+.container { max-width: 900px; margin: auto; padding: 20px; } 
+      h1 { color: #004a99; }
+      ul { line-height: 2; }
+      .btn { display: inline-block; background: #ff9900; color: white; padding: 15px 30px; text-decoration: none; border-radius: 5px; font-weight: bold; margin-top: 20px; }
